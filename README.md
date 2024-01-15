@@ -1,4 +1,4 @@
-#Ground state energy of hard sphere Bose gas in Elliptical HO potential by VMC methods - (2020)
+# Ground state energy of hard sphere Bose gas in Elliptical HO potential by VMC methods - (2020)
 ### A C++ utility and paper
 
 ## How to run the program
